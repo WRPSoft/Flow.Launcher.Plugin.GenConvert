@@ -425,6 +425,36 @@ The following units and their abbreviations can be used (each table can only con
   </tr>
 </table>
 
+<table>
+  <tr>
+    <th>Subject</th>
+    <th>Unit</th>
+    <th>Abbreviation</th>
+    <th rowspan="14" align="center"><img src="assets/Pressure.ico" alt="Pressure Logo"></th>
+  </tr>
+  <tr>
+    <td rowspan="14" align="center">Data</td>
+    <td>Bar</td>
+    <td>bar</td>
+   </tr>
+  <tr>
+    <td>PSI</td>
+    <td>psi</td>
+  </tr>
+  <tr>
+    <td>ATM</td>
+    <td>atm</td>
+  </tr>
+  <tr>
+    <td>Pa</td>
+    <td>pa</td>
+  </tr>
+  <tr>
+    <td>kPa</td>
+    <td>kpa</td>
+  </tr>  
+</table>
+
 ### Problems, errors and feature requests
 
 Open an issue in this repo.
