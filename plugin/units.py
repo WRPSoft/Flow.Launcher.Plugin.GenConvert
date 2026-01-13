@@ -450,8 +450,8 @@ units = {
      "Pressure": [
         # Base
         ["bar", _("bar"), _("bar"), "x * 1", "x * 1"],
-        # All below convert to/from base
-        ["psi", _("PSI"), _("PSI"), "x / 14.5038", "x * 14.5038"],
+        # All below convert to / from base
+        ["psi", _("psi"), _("psi"), "x / 14.5038", "x * 14.5038"],
         ["atm", _("atm"), _("atm"), "x * 1.01325", "x / 1.01325"],
 	    ["pa", _("Pa"), _("Pa"), "x / 100000", "x * 100000"],
 	    ["kpa", _("kPa"), _("kPa"), "x / 100", "x * 100"],
