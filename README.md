@@ -433,7 +433,7 @@ The following units and their abbreviations can be used (each table can only con
     <th rowspan="14" align="center"><img src="assets/Pressure.ico" alt="Pressure Logo"></th>
   </tr>
   <tr>
-    <td rowspan="14" align="center">Data</td>
+    <td rowspan="14" align="center">Pressure</td>
     <td>Bar</td>
     <td>bar</td>
    </tr>
