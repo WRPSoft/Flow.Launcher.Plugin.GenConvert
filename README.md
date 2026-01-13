@@ -438,7 +438,7 @@ The following units and their abbreviations can be used (each table can only con
     <td>bar</td>
    </tr>
   <tr>
-    <td>PSI</td>
+    <td>psi</td>
     <td>psi</td>
   </tr>
   <tr>
