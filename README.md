@@ -434,7 +434,7 @@ The following units and their abbreviations can be used (each table can only con
   </tr>
   <tr>
     <td rowspan="14" align="center">Pressure</td>
-    <td>Bar</td>
+    <td>bar</td>
     <td>bar</td>
    </tr>
   <tr>
@@ -442,7 +442,7 @@ The following units and their abbreviations can be used (each table can only con
     <td>psi</td>
   </tr>
   <tr>
-    <td>ATM</td>
+    <td>atm</td>
     <td>atm</td>
   </tr>
   <tr>
